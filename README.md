@@ -3,7 +3,9 @@ Currently building Backend & GenAI stuff with a strong base in Frontend/UI-UX.<b
 
 🚀 Projects: Atomic (LLM with MERN + RAG + Gemini), AI-Powered Content Platform, morphOS (Browser OS in HTML/CSS/JS) + extras like Morse Code Converter, ToDo Chrome Extension & hackathon builds.<br>
 
-✨ Always open to collaborate.
+✨ Always open to collaborate. <br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Chetram-blue?style=for-the-badge)](https://chetram-portfolio.vercel.app/)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/chetrampatel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developerchetram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developerchetram) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chetrampatel7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelchetram49@gmail.com) 
